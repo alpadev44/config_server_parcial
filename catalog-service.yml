@@ -21,9 +21,9 @@ spring:
   
 queue:
   serie:
-    name: SerieQueue
+    name: testQueue
   movie:
-    name: MovieQueue
+    name: testQueue
 
 eureka:
   client:
