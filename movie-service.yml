@@ -42,7 +42,7 @@ eureka:
 
 queue:
   movie:
-    name: MovieQueue
+    name: movieQueue
 
 
 

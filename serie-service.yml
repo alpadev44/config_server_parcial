@@ -21,7 +21,7 @@ spring:
 
 queue:
   serie:
-    name: SerieQueue
+    name: serieQueue
 
 eureka:
   client:
